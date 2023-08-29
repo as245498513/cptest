@@ -1,5 +1,5 @@
 {
-    "name": "php-packages/query-helpers",
+    "name": "meckel-packages/query-helpers",
     "type": "library",
     "description": "Laravel Orm Query Helper",
     "authors": [
