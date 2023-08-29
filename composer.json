@@ -19,11 +19,11 @@
   },
   "autoload": {
     "psr-4": {
-      "Bloom\\": "src/",
-      "files": [
-        "src/QueryHelper.php"
-      ]
-    }
+      "Bloom\\": "src/"
+    },
+    "files": [
+      "src/QueryHelper.php"
+    ]
   },
   "scripts": {
     "test": "./vendor/bin/phpunit;",
